@@ -1,0 +1,9 @@
+*.pyc
+*~
+*.mo
+*\#
+.*.swp
+.coverage
+aqt/forms
+locale
+.idea
