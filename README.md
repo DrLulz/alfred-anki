@@ -68,9 +68,9 @@
 
 ### Credits:
 
-- This workflow uses the python workflow library Alfred-Workflow (by deanishe).
-- The internal structure borrows *heavily* from the FuzzyFolders and Reddit workflows (also by deanishe).
-- The `new_card.py` was written by (guess who) deanishe, as a demo for my edification.
+	- This workflow uses the python workflow library Alfred-Workflow (by deanishe).
+	- The internal structure borrows *heavily* from the FuzzyFolders and Reddit workflows (also by deanishe).
+	- The new_card.py was written by (guess who) deanishe, as a demo for my edification.
 
 ### TO-DO:
 
